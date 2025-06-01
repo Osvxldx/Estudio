@@ -1,0 +1,7 @@
+/* Este archivo define los estilos CSS para la página web */
+#uno{
+    color : tomato; /* Cambia el color del texto con id 'uno' a tomate */
+}
+#dos{
+    color : blue; /* Cambia el color del texto con id 'dos' a azul */
+}
